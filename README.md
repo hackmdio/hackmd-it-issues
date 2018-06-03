@@ -2,6 +2,10 @@
 
 Please submit your issue to [here](https://github.com/hackmdio/hackmd-it-issues/issues).
 
+## Changelog
+
+Read it [here](https://hackmd.io/s/hackmd-it-release-notes).
+
 ## Install
 
 - [**Chrome** extension][chrome-ext]
