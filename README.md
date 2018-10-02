@@ -1,6 +1,6 @@
 # Issue reporting for hackmd-it browser extension
 
-Please submit your issue to [here](https://github.com/hackmdio/hackmd-it-issues/issues).
+Please submit your issues [here](https://github.com/hackmdio/hackmd-it-issues/issues).
 
 ## Changelog
 
